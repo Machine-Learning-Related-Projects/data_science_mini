@@ -1,0 +1,9 @@
+tensorflow
+os
+matplotlib.pyplot
+numpy
+tqdm
+random
+cv2
+sklearn
+keras
